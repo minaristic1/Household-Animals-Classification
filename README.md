@@ -4,5 +4,5 @@ Projekat iz predmeta Mašinsko učenje — klasifikacija slika pasa i mačaka po
 
 ## Članovi tima
 
-- Mina Ristić
-- Alma Hodžić
+- Mina Ristić - 1119/2025
+- Alma Hodžić - 1120/2025
