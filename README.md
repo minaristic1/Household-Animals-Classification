@@ -606,6 +606,10 @@ jer ostvaruje najbolje rezultate na test skupu.
 
 Zbog veličine `.keras` modeli nisu uključeni direktno u GitHub repozitorijum.
 
+Sva tri istrenirana modela dostupna su za preuzimanje sa Google Drive-a:
+
+https://drive.google.com/drive/folders/1wUJuuBS4_J700X5_BS3Rx294vyTA2X6B?usp=sharing
+
 ---
 
 ## Reproduktivnost
